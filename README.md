@@ -14,7 +14,7 @@ This project is intended to provide a CAD base to :
 ## Version 2
 
 Improved Support engine :
-- engine position fix ( 1 -> 3 points)
+- Engine position fix ( 1 -> 3 points)
 - Add Encoded wheel for more position accurate
 
 <img src="./doc/images/Support_Engine_assembly-v1.png" width="640" alt="" >
